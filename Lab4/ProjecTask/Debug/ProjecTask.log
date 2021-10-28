@@ -1,0 +1,6 @@
+﻿  ProjecTask.cpp
+D:\Учеба\5 сем\СП\Lab4\ProjecTask\ProjecTask.cpp(249,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab4\ProjecTask\ProjecTask.cpp(249,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab4\ProjecTask\ProjecTask.cpp(251,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab4\ProjecTask\ProjecTask.cpp(251,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ProjecTask.vcxproj -> D:\Учеба\5 сем\СП\Lab4\Debug\ProjecTask.exe
