@@ -1,0 +1,9 @@
+﻿  ProjecTask.cpp
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(143,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(143,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(143,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(143,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(181,31): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(196,31): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Учеба\5 сем\СП\Lab7\ProjecTask\ProjecTask.cpp(356,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ProjecTask.vcxproj -> D:\Учеба\5 сем\СП\Lab7\Debug\ProjecTask.exe
